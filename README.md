@@ -9,7 +9,7 @@
 - ⚡ I’m currently working for WEG
 - 😄 Future Software Engineer
 
-(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[Javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
