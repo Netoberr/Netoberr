@@ -6,8 +6,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/netoult/)](https://www.instagram.com/netoult/)
 
 ### About me
-- ⚡ I’m currently working for WEG
-- 😄 Software Engineer
+-  I’m currently working for WEG
+-  Software Engineer
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
