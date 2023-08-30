@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/netoult/)](https://www.instagram.com/netoult/)
 
 ### About me
--  I’m currently working for WEG
+-  I’m currently working for Tnah
 -  Software Engineer
 
 <div style="display: inline_block"><br>
